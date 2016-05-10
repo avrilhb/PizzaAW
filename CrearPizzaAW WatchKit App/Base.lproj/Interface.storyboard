@@ -200,27 +200,27 @@
                         <group width="1" alignment="left" id="AFI-zV-Qr1">
                             <items>
                                 <label alignment="left" text="Tamaño: " id="33t-8T-qPg"/>
-                                <label alignment="left" text="Label" id="4cz-fL-IId"/>
                             </items>
                         </group>
+                        <label alignment="left" text="Label" id="4cz-fL-IId"/>
                         <separator alignment="left" id="7li-Fn-ZCI">
                             <color key="color" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                         </separator>
                         <group width="1" alignment="left" id="nvV-Hc-UoG">
                             <items>
                                 <label width="67" alignment="left" text="Masa: " id="G2f-nT-mTE"/>
-                                <label alignment="left" text="Label" id="JYX-W9-ZRI"/>
                             </items>
                         </group>
+                        <label alignment="left" text="Label" id="JYX-W9-ZRI"/>
                         <separator alignment="left" id="4ga-Wz-X4Q">
                             <color key="color" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                         </separator>
                         <group width="1" alignment="left" id="N6d-gD-nyQ">
                             <items>
                                 <label width="69" alignment="left" text="Queso:" id="1m7-hZ-U2u"/>
-                                <label alignment="left" text="Label" id="sd0-4p-Gqc"/>
                             </items>
                         </group>
+                        <label alignment="left" text="Label" id="sd0-4p-Gqc"/>
                         <separator alignment="left" id="1d4-bs-uvy">
                             <color key="color" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                         </separator>

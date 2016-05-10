@@ -89,7 +89,6 @@ class IngredientesInterfaceController: WKInterfaceController {
 
     override func willActivate() {
         // This method is called when watch view controller is about to be visible to user
-        print(ingredientes.count)
         super.willActivate()
         if (ingredientes.contains(0)){
             btnContinuar.setHidden(true)

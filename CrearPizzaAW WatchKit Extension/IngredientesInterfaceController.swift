@@ -149,17 +149,5 @@ class IngredientesInterfaceController: WKInterfaceController {
         else{
             btnContinuar.setHidden(true)
         }
-        
-        /*if (i){
-            btnContinuar.setHidden(false)
-        }
-        else{
-            if (ingredientes.count > 5){
-                btnContinuar.setHidden(true)
-            }
-            else{
-                btnContinuar.setHidden(false)
-            }
-        }*/
     }
 }
